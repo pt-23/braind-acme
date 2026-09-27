@@ -1,2 +1,3 @@
-# braind-acme
-Acme: BrAIn.D dogfooding itself — CEO-set KPIs and outcome contracts
+# Northwind Pay
+
+A BrAIn.D example workspace. Open this folder in BrAIn.D.
