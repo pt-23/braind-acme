@@ -1,0 +1,11 @@
+{
+  "id": "sms-fallback-vendor-8042a8",
+  "parentId": "onboarding-2-0-80e0ff",
+  "title": "SMS fallback vendor",
+  "kind": "project",
+  "owner": "sam",
+  "createdBy": "li",
+  "createdAt": "2026-09-27T02:31:40.131Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:40.409Z"
+}

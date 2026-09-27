@@ -1,0 +1,32 @@
+{
+  "id": "card-activation-bd8237",
+  "parentId": "cards-30bec8",
+  "title": "Card Activation",
+  "kind": "feature",
+  "fields": {
+    "pm": "li",
+    "kpis": "activation_rate, otp_success_rate",
+    "roiModel": "+1pt activation ≈ $180k ARR"
+  },
+  "owner": "li",
+  "createdBy": "priya",
+  "createdAt": "2026-09-27T02:31:38.106Z",
+  "status": "GA",
+  "statusChangedAt": "2026-09-27T02:31:38.260Z",
+  "tags": {
+    "area": [
+      "auth",
+      "sms-delivery"
+    ]
+  },
+  "links": [
+    {
+      "rel": "runs-on",
+      "to": "activation-service-736811"
+    },
+    {
+      "rel": "serves",
+      "to": "card-activation-61-72-ee6948"
+    }
+  ]
+}

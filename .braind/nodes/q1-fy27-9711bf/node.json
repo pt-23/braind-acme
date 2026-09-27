@@ -1,0 +1,19 @@
+{
+  "id": "q1-fy27-9711bf",
+  "parentId": "fy27-af6526",
+  "title": "Q1 FY27",
+  "kind": "quarterly-cycle",
+  "fields": {
+    "quarter": "Q1",
+    "capPerPerson": 3
+  },
+  "period": {
+    "start": "2026-10-01",
+    "end": "2026-12-31"
+  },
+  "owner": "nadia",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:36.893Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:36.938Z"
+}

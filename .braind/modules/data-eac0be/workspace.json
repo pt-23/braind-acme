@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "name": "Data",
+  "rootId": "data-eac0be",
+  "createdAt": "2026-09-27T02:31:42.845Z",
+  "mode": "normal",
+  "module": {
+    "name": "data"
+  }
+}

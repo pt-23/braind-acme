@@ -1,0 +1,13 @@
+{
+  "id": "tier-1-80c691",
+  "parentId": "support-4ae95a",
+  "title": "Tier 1",
+  "kind": "team",
+  "fields": {
+    "purpose": "First line for every customer channel."
+  },
+  "owner": "zoe",
+  "createdBy": "zoe",
+  "createdAt": "2026-09-27T02:31:36.146Z",
+  "status": "active"
+}

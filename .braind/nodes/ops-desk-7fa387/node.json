@@ -1,0 +1,14 @@
+{
+  "id": "ops-desk-7fa387",
+  "parentId": "tier-1-80c691",
+  "title": "Ops Desk",
+  "kind": "ops-desk",
+  "fields": {
+    "channels": "chat, email, phone",
+    "sla": "first reply < 4h"
+  },
+  "owner": "zoe",
+  "createdBy": "zoe",
+  "createdAt": "2026-09-27T02:31:41.944Z",
+  "status": "active"
+}

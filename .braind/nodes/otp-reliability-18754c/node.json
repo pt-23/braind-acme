@@ -1,0 +1,39 @@
+{
+  "id": "otp-reliability-18754c",
+  "parentId": "onboarding-2-0-80e0ff",
+  "title": "OTP Reliability",
+  "kind": "project",
+  "links": [
+    {
+      "rel": "depends-on",
+      "to": "why-android-users-drop-at-otp-e072f8"
+    },
+    {
+      "rel": "derived-from",
+      "to": "why-android-users-drop-at-otp-e072f8"
+    },
+    {
+      "rel": "delivered-by",
+      "to": "cards-pod-6dc1fb"
+    },
+    {
+      "rel": "changes",
+      "to": "card-activation-bd8237"
+    }
+  ],
+  "owner": "raj",
+  "createdBy": "li",
+  "createdAt": "2026-09-27T02:31:40.075Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:40.360Z",
+  "fields": {
+    "due": "2026-11-20",
+    "deliverables": "Retry, auto-read, fallback"
+  },
+  "tags": {
+    "area": [
+      "auth",
+      "sms-delivery"
+    ]
+  }
+}

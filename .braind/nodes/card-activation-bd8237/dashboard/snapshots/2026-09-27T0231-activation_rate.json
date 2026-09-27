@@ -1,0 +1,10 @@
+{
+  "metric": "activation_rate",
+  "value": 0.638,
+  "at": "2026-09-27T02:31:38.396Z",
+  "provenance": {
+    "connector": "command",
+    "query": "echo 0.638",
+    "runKey": "card-activation-bd8237:kpi-refresh@manual-2026-09-27T02:31Z"
+  }
+}

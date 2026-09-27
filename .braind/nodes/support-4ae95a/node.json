@@ -1,0 +1,13 @@
+{
+  "id": "support-4ae95a",
+  "parentId": "northwind-pay",
+  "title": "Support",
+  "kind": "department",
+  "fields": {
+    "leader": "zoe"
+  },
+  "owner": "zoe",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.969Z",
+  "status": "active"
+}

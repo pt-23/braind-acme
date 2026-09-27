@@ -1,0 +1,13 @@
+{
+  "id": "data-eac0be",
+  "parentId": "northwind-pay",
+  "title": "Data",
+  "kind": "department",
+  "owner": "maria",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.997Z",
+  "status": "active",
+  "module": {
+    "name": "data"
+  }
+}

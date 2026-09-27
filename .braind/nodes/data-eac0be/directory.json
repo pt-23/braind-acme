@@ -1,0 +1,23 @@
+[
+  {
+    "id": "data-eac0be",
+    "kind": "department",
+    "title": "Data",
+    "owner": "maria",
+    "status": "active",
+    "statusCategory": "start",
+    "module": "data-eac0be"
+  },
+  {
+    "id": "warehouse-migration-eb1b66",
+    "kind": "project",
+    "title": "Warehouse migration",
+    "owner": "kim",
+    "status": "planned",
+    "statusCategory": "start",
+    "module": "data-eac0be",
+    "headline": {
+      "due": "2027-03-31"
+    }
+  }
+]

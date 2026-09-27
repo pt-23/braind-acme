@@ -1,0 +1,7 @@
+{"at":"2026-09-27T02:31:38.713Z","by":"marcus","type":"node.created","kind":"program","parentId":"engineering-ff56fc","owner":"marcus","status":"proposed"}
+{"at":"2026-09-27T02:31:38.744Z","by":"marcus","type":"node.status.changed","from":"proposed","to":"active"}
+{"at":"2026-09-27T02:31:38.777Z","by":"marcus","type":"link.added","rel":"serves","to":"support-cost-per-account-20-7d46c7"}
+{"at":"2026-09-27T02:31:38.804Z","by":"marcus","type":"checkin.recorded","record":"2026-09-27-marcus","health":"green"}
+{"at":"2026-09-27T02:31:38.833Z","by":"marcus","type":"record.created","folder":"register","record":"2026-09-27-marcus-legacy-otp-client-in-the-android-app","kind":"debt","title":"Legacy OTP client in the Android app"}
+{"at":"2026-09-27T02:31:38.857Z","by":"marcus","type":"record.created","folder":"register","record":"2026-09-27-marcus-flaky-end-to-end-suite-retries-mask-fail","kind":"debt","title":"Flaky end-to-end suite (retries mask failures)"}
+{"at":"2026-09-27T02:31:38.881Z","by":"marcus","type":"record.created","folder":"register","record":"2026-09-27-marcus-manual-certificate-rotation","kind":"debt","title":"Manual certificate rotation"}

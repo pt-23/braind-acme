@@ -1,0 +1,14 @@
+{
+  "id": "october-review-1f21e7",
+  "parentId": "platform-pod-875145",
+  "title": "October review",
+  "kind": "cycle",
+  "period": {
+    "start": "2026-10-01",
+    "end": "2026-10-31"
+  },
+  "owner": "devon",
+  "createdBy": "devon",
+  "createdAt": "2026-09-27T02:31:39.284Z",
+  "status": "open"
+}

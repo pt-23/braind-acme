@@ -1,0 +1,7 @@
+{"at":"2026-09-27T02:31:39.740Z","by":"marcus","type":"node.created","kind":"initiative","parentId":"engineering-ff56fc","owner":"li","status":"proposed"}
+{"at":"2026-09-27T02:31:39.802Z","by":"li","type":"link.added","rel":"serves","to":"fix-otp-drop-off-61-66-2ddeb0"}
+{"at":"2026-09-27T02:31:39.831Z","by":"li","type":"node.status.changed","from":"proposed","to":"funded"}
+{"at":"2026-09-27T02:31:39.864Z","by":"li","type":"node.status.changed","from":"funded","to":"active"}
+{"at":"2026-09-27T02:31:39.897Z","by":"li","type":"checkin.recorded","record":"2026-09-27-li","health":"yellow"}
+{"at":"2026-09-27T02:31:40.334Z","by":"li","type":"record.status.changed","folder":"proposals","record":"2026-09-27-staffing","from":"draft","to":"confirmed","rows":5}
+{"at":"2026-09-27T02:31:42.716Z","by":"sam","type":"record.created","folder":"register","record":"2026-09-27-sam-fraud-rules-engine-has-no-owner-after-th","kind":"risk","title":"Fraud rules engine has no owner after the reorg"}

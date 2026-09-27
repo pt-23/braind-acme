@@ -1,0 +1,14 @@
+{"at":"2026-09-27T02:31:38.909Z","by":"marcus","type":"node.created","kind":"project","parentId":"platform-modernization-eefde2","owner":"devon","status":"planned"}
+{"at":"2026-09-27T02:31:38.959Z","by":"devon","type":"link.added","rel":"delivered-by","to":"platform-pod-875145"}
+{"at":"2026-09-27T02:31:38.988Z","by":"devon","type":"node.status.changed","from":"planned","to":"active"}
+{"at":"2026-09-27T02:31:39.023Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-c2a9","title":"Helm chart for Activation Service"}
+{"at":"2026-09-27T02:31:39.047Z","by":"devon","type":"record.status.changed","folder":"items","record":"WI-20260927-c2a9","from":"backlog","to":"done","outcome":"success"}
+{"at":"2026-09-27T02:31:39.073Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-a129","title":"Canary rollout for Ledger API"}
+{"at":"2026-09-27T02:31:39.100Z","by":"devon","type":"record.status.changed","folder":"items","record":"WI-20260927-a129","from":"backlog","to":"review"}
+{"at":"2026-09-27T02:31:39.124Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-08eb","title":"Move Notifications off the VM fleet"}
+{"at":"2026-09-27T02:31:39.148Z","by":"devon","type":"record.status.changed","folder":"items","record":"WI-20260927-08eb","from":"backlog","to":"doing"}
+{"at":"2026-09-27T02:31:39.172Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-ae9b","title":"Rotate certificates automatically"}
+{"at":"2026-09-27T02:31:39.196Z","by":"devon","type":"record.status.changed","folder":"items","record":"WI-20260927-ae9b","from":"backlog","to":"blocked"}
+{"at":"2026-09-27T02:31:39.220Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-4453","title":"Load test the new ingress"}
+{"at":"2026-09-27T02:31:39.247Z","by":"devon","type":"record.status.changed","folder":"items","record":"WI-20260927-4453","from":"backlog","to":"ready"}
+{"at":"2026-09-27T02:31:39.271Z","by":"devon","type":"record.created","folder":"items","record":"WI-20260927-a612","title":"Decommission old VM fleet"}

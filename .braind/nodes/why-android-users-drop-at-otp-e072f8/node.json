@@ -1,0 +1,20 @@
+{
+  "id": "why-android-users-drop-at-otp-e072f8",
+  "parentId": "onboarding-2-0-80e0ff",
+  "title": "Why Android users drop at OTP",
+  "kind": "discovery",
+  "owner": "li",
+  "createdBy": "li",
+  "createdAt": "2026-09-27T02:31:40.018Z",
+  "status": "go",
+  "statusChangedAt": "2026-09-27T02:31:40.767Z",
+  "fields": {
+    "problem": "A third of Android users abandon activation at the OTP step.",
+    "hypotheses": "SMS arrives late; users leave the app to find it.",
+    "decisionMaker": "priya"
+  },
+  "period": {
+    "start": "2026-09-14",
+    "end": "2026-09-25"
+  }
+}

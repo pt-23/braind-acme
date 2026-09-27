@@ -1,0 +1,17 @@
+{
+  "id": "card-activation-61-72-ee6948",
+  "parentId": "fy27-af6526",
+  "title": "Card activation 61% → 72%",
+  "kind": "goal",
+  "fields": {
+    "level": "annual",
+    "baseline": 61,
+    "target": 72,
+    "due": "2027-09-30"
+  },
+  "owner": "priya",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:36.826Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:37.212Z"
+}

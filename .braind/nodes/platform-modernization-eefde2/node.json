@@ -1,0 +1,23 @@
+{
+  "id": "platform-modernization-eefde2",
+  "parentId": "engineering-ff56fc",
+  "title": "Platform Modernization",
+  "kind": "program",
+  "fields": {
+    "endState": "Every service on Kubernetes; the mainframe ledger retired.",
+    "horizon": "2028-06-30",
+    "capacityTarget": 20,
+    "annualBudget": 1200000
+  },
+  "owner": "marcus",
+  "createdBy": "marcus",
+  "createdAt": "2026-09-27T02:31:38.695Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:38.731Z",
+  "links": [
+    {
+      "rel": "serves",
+      "to": "support-cost-per-account-20-7d46c7"
+    }
+  ]
+}

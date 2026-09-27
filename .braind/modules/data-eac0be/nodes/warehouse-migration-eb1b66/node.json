@@ -1,0 +1,13 @@
+{
+  "id": "warehouse-migration-eb1b66",
+  "parentId": "data-eac0be",
+  "title": "Warehouse migration",
+  "kind": "project",
+  "fields": {
+    "due": "2027-03-31"
+  },
+  "owner": "kim",
+  "createdBy": "maria",
+  "createdAt": "2026-09-27T02:31:42.772Z",
+  "status": "planned"
+}

@@ -1,0 +1,6 @@
+{"at":"2026-09-27T02:31:38.040Z","by":"priya","type":"node.created","kind":"product","parentId":"product-5a3504","owner":"priya","status":"concept"}
+{"at":"2026-09-27T02:31:38.069Z","by":"priya","type":"node.status.changed","from":"concept","to":"live"}
+{"at":"2026-09-27T02:31:42.316Z","by":"rick","type":"record.created","folder":"register","record":"2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm","kind":"opportunity","title":"We can get 10% more users if we target SMBs"}
+{"at":"2026-09-27T02:31:42.353Z","by":"priya","type":"record.status.changed","folder":"register","record":"2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm","from":"proposed","to":"validated"}
+{"at":"2026-09-27T02:31:42.424Z","by":"priya","type":"record.status.changed","folder":"register","record":"2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm","from":"validated","to":"actioned"}
+{"at":"2026-09-27T02:31:42.424Z","by":"priya","type":"record.promoted","folder":"register","record":"2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm","as":"discovery","to":"smb-market-fit-2a1be7"}

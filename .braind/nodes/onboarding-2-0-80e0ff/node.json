@@ -1,0 +1,36 @@
+{
+  "id": "onboarding-2-0-80e0ff",
+  "parentId": "engineering-ff56fc",
+  "title": "Onboarding 2.0",
+  "kind": "initiative",
+  "fields": {
+    "objective": "Lift card activation by fixing OTP and the first-run flow",
+    "investment": 1800000,
+    "headcount": 9,
+    "metric": "activation_rate",
+    "baseline": 61,
+    "target": 66,
+    "deadline": "2026-12-31",
+    "sponsor": "priya"
+  },
+  "owner": "li",
+  "createdBy": "marcus",
+  "createdAt": "2026-09-27T02:31:39.722Z",
+  "status": "active",
+  "tags": {
+    "product": [
+      "cards"
+    ],
+    "area": [
+      "auth",
+      "sms-delivery"
+    ]
+  },
+  "links": [
+    {
+      "rel": "serves",
+      "to": "fix-otp-drop-off-61-66-2ddeb0"
+    }
+  ],
+  "statusChangedAt": "2026-09-27T02:31:39.852Z"
+}

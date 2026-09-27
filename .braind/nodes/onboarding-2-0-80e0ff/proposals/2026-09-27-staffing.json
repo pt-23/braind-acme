@@ -1,0 +1,177 @@
+{
+  "id": "2026-09-27-staffing",
+  "nodeId": "onboarding-2-0-80e0ff",
+  "source": "plan.md",
+  "draftedAt": "2026-09-27T02:31:39.931Z",
+  "draftedBy": "agent:staffing",
+  "status": "confirmed",
+  "rows": [
+    {
+      "key": "wp-1-1",
+      "title": "Why Android users drop at OTP",
+      "as": "node",
+      "kind": "discovery",
+      "estimate": "2w",
+      "needs": {
+        "roles": [
+          "pm"
+        ],
+        "domains": {
+          "area": [
+            "onboarding"
+          ]
+        }
+      },
+      "note": "Interview 10 drop-off users; read the funnel.",
+      "include": true,
+      "owner": "li",
+      "edited": [
+        "owner"
+      ],
+      "outcome": {
+        "state": "accepted",
+        "nodeId": "why-android-users-drop-at-otp-e072f8",
+        "owner": "li"
+      }
+    },
+    {
+      "key": "wp-1-2",
+      "title": "OTP Reliability",
+      "as": "node",
+      "kind": "project",
+      "estimate": "6w",
+      "after": [
+        "wp-1-1"
+      ],
+      "needs": {
+        "roles": [
+          "engineer"
+        ],
+        "domains": {
+          "area": [
+            "auth",
+            "sms-delivery"
+          ]
+        },
+        "skills": [
+          "twilio"
+        ]
+      },
+      "include": true,
+      "owner": "raj",
+      "edited": [
+        "owner"
+      ],
+      "outcome": {
+        "state": "delegated",
+        "nodeId": "otp-reliability-18754c",
+        "owner": "raj"
+      }
+    },
+    {
+      "key": "wp-1-3",
+      "title": "SMS fallback vendor",
+      "as": "node",
+      "kind": "project",
+      "estimate": "4w",
+      "needs": {
+        "roles": [
+          "engineer"
+        ],
+        "domains": {
+          "area": [
+            "sms-delivery"
+          ]
+        },
+        "skills": [
+          "twilio"
+        ]
+      },
+      "include": true,
+      "owner": "sam",
+      "edited": [
+        "owner"
+      ],
+      "outcome": {
+        "state": "delegated",
+        "nodeId": "sms-fallback-vendor-8042a8",
+        "owner": "sam"
+      }
+    },
+    {
+      "key": "wp-2-1",
+      "title": "Activation analytics",
+      "as": "node",
+      "kind": "project",
+      "estimate": "3w",
+      "needs": {
+        "roles": [
+          "data"
+        ],
+        "domains": {
+          "area": [
+            "analytics"
+          ]
+        },
+        "skills": [
+          "dbt"
+        ]
+      },
+      "include": true,
+      "owner": "kim",
+      "edited": [
+        "owner"
+      ],
+      "outcome": {
+        "state": "requested",
+        "nodeId": "activation-analytics-7dc00b",
+        "owner": "kim",
+        "threadId": "2026-09-27-li-may-kim-take-activation-analytics"
+      }
+    },
+    {
+      "key": "wp-2-2",
+      "title": "Fraud checks on resend",
+      "as": "node",
+      "kind": "project",
+      "estimate": "3w",
+      "needs": {
+        "roles": [
+          "engineer"
+        ],
+        "domains": {
+          "area": [
+            "fraud"
+          ]
+        }
+      },
+      "include": true,
+      "owner": "sam",
+      "edited": [
+        "owner"
+      ],
+      "outcome": {
+        "state": "delegated",
+        "nodeId": "fraud-checks-on-resend-e40189",
+        "owner": "sam"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "title": "Does our Twilio contract allow a secondary SMS route?",
+      "question": "Needed for the SMS fallback project.",
+      "about": {
+        "skills": [
+          "twilio"
+        ]
+      },
+      "include": true,
+      "outcome": {
+        "threadId": "2026-09-27-li-does-our-twilio-contract-allow-a-secondary-sms-r",
+        "to": "raj"
+      }
+    }
+  ],
+  "confirmedAt": "2026-09-27T02:31:40.323Z"
+}

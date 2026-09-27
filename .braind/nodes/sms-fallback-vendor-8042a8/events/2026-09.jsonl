@@ -1,0 +1,4 @@
+{"at":"2026-09-27T02:31:40.149Z","by":"li","type":"node.created","kind":"project","parentId":"onboarding-2-0-80e0ff","owner":"sam","status":"planned"}
+{"at":"2026-09-27T02:31:40.172Z","by":"li","type":"record.promoted","folder":"proposals","record":"2026-09-27-staffing","row":"wp-1-3","from":"onboarding-2-0-80e0ff","via":"agent:staffing"}
+{"at":"2026-09-27T02:31:40.422Z","by":"sam","type":"node.status.changed","from":"planned","to":"active"}
+{"at":"2026-09-27T02:31:40.422Z","by":"sam","type":"decision.recorded","decision":"accepted-delegation"}

@@ -1,0 +1,17 @@
+{
+  "id": "support-cost-per-account-20-7d46c7",
+  "parentId": "fy27-af6526",
+  "title": "Support cost per account −20%",
+  "kind": "goal",
+  "fields": {
+    "level": "annual",
+    "baseline": 100,
+    "target": 80,
+    "due": "2027-09-30"
+  },
+  "owner": "zoe",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:36.861Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:37.287Z"
+}

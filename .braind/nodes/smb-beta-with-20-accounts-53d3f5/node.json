@@ -1,0 +1,22 @@
+{
+  "id": "smb-beta-with-20-accounts-53d3f5",
+  "parentId": "q1-fy27-9711bf",
+  "title": "SMB beta with 20 accounts",
+  "kind": "goal",
+  "fields": {
+    "level": "quarterly",
+    "target": 20,
+    "due": "2026-12-31"
+  },
+  "owner": "rick",
+  "createdBy": "nadia",
+  "createdAt": "2026-09-27T02:31:37.002Z",
+  "status": "active",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "card-activation-61-72-ee6948"
+    }
+  ],
+  "statusChangedAt": "2026-09-27T02:31:37.442Z"
+}

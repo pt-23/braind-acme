@@ -1,0 +1,5 @@
+{"at":"2026-09-27T02:31:37.052Z","by":"nadia","type":"node.created","kind":"goal","parentId":"q1-fy27-9711bf","owner":"zoe","status":"draft"}
+{"at":"2026-09-27T02:31:37.152Z","by":"pradeep","type":"link.added","rel":"supports","to":"support-cost-per-account-20-7d46c7"}
+{"at":"2026-09-27T02:31:37.501Z","by":"zoe","type":"node.status.changed","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.535Z","by":"zoe","type":"node.status.changed","from":"approved","to":"active"}
+{"at":"2026-09-27T02:31:37.707Z","by":"zoe","type":"checkin.recorded","record":"2026-09-27-zoe","health":"red"}

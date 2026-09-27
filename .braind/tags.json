@@ -1,0 +1,37 @@
+{
+  "product": {
+    "label": "Product",
+    "values": [
+      "cards",
+      "lending"
+    ]
+  },
+  "area": {
+    "label": "Area",
+    "values": [
+      "analytics",
+      "auth",
+      "fraud",
+      "ledger",
+      "onboarding",
+      "platform",
+      "sms-delivery"
+    ]
+  },
+  "segment": {
+    "values": [
+      "smb"
+    ]
+  },
+  "skill": {
+    "label": "Skill",
+    "values": [
+      "android",
+      "dbt",
+      "kotlin",
+      "kubernetes",
+      "sql",
+      "twilio"
+    ]
+  }
+}

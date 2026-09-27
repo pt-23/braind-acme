@@ -1,0 +1,31 @@
+{"at":"2026-09-27T02:31:40.094Z","by":"li","type":"node.created","kind":"project","parentId":"onboarding-2-0-80e0ff","owner":"raj","status":"planned"}
+{"at":"2026-09-27T02:31:40.118Z","by":"li","type":"record.promoted","folder":"proposals","record":"2026-09-27-staffing","row":"wp-1-2","from":"onboarding-2-0-80e0ff","via":"agent:staffing"}
+{"at":"2026-09-27T02:31:40.373Z","by":"raj","type":"node.status.changed","from":"planned","to":"active"}
+{"at":"2026-09-27T02:31:40.373Z","by":"raj","type":"decision.recorded","decision":"accepted-delegation"}
+{"at":"2026-09-27T02:31:40.855Z","by":"pradeep","type":"link.added","rel":"derived-from","to":"why-android-users-drop-at-otp-e072f8"}
+{"at":"2026-09-27T02:31:40.885Z","by":"pradeep","type":"spec.handed-over","from":"why-android-users-drop-at-otp-e072f8"}
+{"at":"2026-09-27T02:31:40.934Z","by":"raj","type":"link.added","rel":"delivered-by","to":"cards-pod-6dc1fb"}
+{"at":"2026-09-27T02:31:40.965Z","by":"raj","type":"link.added","rel":"changes","to":"card-activation-bd8237"}
+{"at":"2026-09-27T02:31:40.997Z","by":"raj","type":"node.fields.changed","from":{},"to":{"due":"2026-11-20","deliverables":"Retry, auto-read, fallback"}}
+{"at":"2026-09-27T02:31:41.030Z","by":"raj","type":"checkin.recorded","record":"2026-09-27-raj","health":"yellow"}
+{"at":"2026-09-27T02:31:41.174Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-4021","title":"Retry OTP send with backoff"}
+{"at":"2026-09-27T02:31:41.198Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-d352","title":"Countdown and resend UI"}
+{"at":"2026-09-27T02:31:41.222Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-f129","title":"Auto-read OTP with SMS Retriever"}
+{"at":"2026-09-27T02:31:41.246Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-c805","title":"Delivery receipts dashboard"}
+{"at":"2026-09-27T02:31:41.270Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-2ae8","title":"OTP lockout copy review"}
+{"at":"2026-09-27T02:31:41.294Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-962f","title":"Fallback route behind a flag"}
+{"at":"2026-09-27T02:31:41.318Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-3085","title":"Regression suite for activation"}
+{"at":"2026-09-27T02:31:41.342Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-5656","title":"SMS provider failover drill"}
+{"at":"2026-09-27T02:31:41.404Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-4021","from":"backlog","to":"done","outcome":"success"}
+{"at":"2026-09-27T02:31:41.429Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-d352","from":"backlog","to":"done","outcome":"success"}
+{"at":"2026-09-27T02:31:41.453Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-962f","from":"backlog","to":"blocked"}
+{"at":"2026-09-27T02:31:41.479Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-f129","from":"backlog","to":"in-progress"}
+{"at":"2026-09-27T02:31:41.508Z","by":"raj","type":"item.sprint.assigned","record":"WI-20260927-f129","from":"sprint-41-0fc47e","to":"sprint-42-4d4214"}
+{"at":"2026-09-27T02:31:41.519Z","by":"raj","type":"item.carried-over","record":"WI-20260927-f129","from":"sprint-41-0fc47e","to":"sprint-42-4d4214"}
+{"at":"2026-09-27T02:31:41.658Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-c805","from":"backlog","to":"in-progress"}
+{"at":"2026-09-27T02:31:41.683Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-c805","from":"in-progress","to":"review"}
+{"at":"2026-09-27T02:31:41.712Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-2ae8","from":"backlog","to":"in-progress"}
+{"at":"2026-09-27T02:31:41.736Z","by":"raj","type":"record.status.changed","folder":"items","record":"WI-20260927-f129","from":"in-progress","to":"review"}
+{"at":"2026-09-27T02:31:41.830Z","by":"raj","type":"record.promoted","folder":"items","record":"WI-20260927-5656","to":"sms-provider-failover-drill-dc6c7a"}
+{"at":"2026-09-27T02:31:41.918Z","by":"tom","type":"decision.recorded","decision":"declined","about":"WI-20260927-3085","reason":"I’m on the device lab migration until Oct 20; can take it in Sprint 44.","declinedBy":"tom"}
+{"at":"2026-09-27T02:31:42.627Z","by":"raj","type":"record.created","folder":"items","record":"WI-20260927-e928","title":"SMS delayed on Android 14 battery saver"}

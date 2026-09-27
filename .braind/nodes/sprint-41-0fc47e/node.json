@@ -1,0 +1,19 @@
+{
+  "id": "sprint-41-0fc47e",
+  "parentId": "cards-pod-6dc1fb",
+  "title": "Sprint 41",
+  "kind": "sprint",
+  "fields": {
+    "goal": "Ship OTP retry to 50%",
+    "capacity": 30
+  },
+  "period": {
+    "start": "2026-09-14",
+    "end": "2026-09-25"
+  },
+  "owner": "raj",
+  "createdBy": "raj",
+  "createdAt": "2026-09-27T02:31:41.048Z",
+  "status": "closed",
+  "statusChangedAt": "2026-09-27T02:31:41.569Z"
+}

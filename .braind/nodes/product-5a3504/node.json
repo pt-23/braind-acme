@@ -1,0 +1,13 @@
+{
+  "id": "product-5a3504",
+  "parentId": "northwind-pay",
+  "title": "Product",
+  "kind": "department",
+  "fields": {
+    "leader": "priya"
+  },
+  "owner": "priya",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.908Z",
+  "status": "active"
+}

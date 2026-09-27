@@ -1,0 +1,257 @@
+[
+  {
+    "id": "northwind-pay",
+    "kind": "company",
+    "title": "Northwind Pay",
+    "owner": "pradeep",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "people-c00da3",
+    "kind": "department",
+    "title": "People",
+    "owner": "nadia",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "product-5a3504",
+    "kind": "department",
+    "title": "Product",
+    "owner": "priya",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "cards-30bec8",
+    "kind": "product",
+    "title": "Cards",
+    "owner": "priya",
+    "status": "live",
+    "statusCategory": "active"
+  },
+  {
+    "id": "card-activation-bd8237",
+    "kind": "feature",
+    "title": "Card Activation",
+    "owner": "li",
+    "status": "GA",
+    "statusCategory": "active",
+    "headline": {
+      "kpis": "activation_rate, otp_success_rate"
+    }
+  },
+  {
+    "id": "card-controls-abf81b",
+    "kind": "feature",
+    "title": "Card Controls",
+    "owner": "priya",
+    "status": "beta",
+    "statusCategory": "active",
+    "headline": {
+      "kpis": "controls_weekly_active"
+    }
+  },
+  {
+    "id": "engineering-ff56fc",
+    "kind": "department",
+    "title": "Engineering",
+    "owner": "marcus",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "activation-service-736811",
+    "kind": "service",
+    "title": "Activation Service",
+    "owner": "devon",
+    "status": "live",
+    "statusCategory": "active"
+  },
+  {
+    "id": "ledger-migration-099a67",
+    "kind": "project",
+    "title": "Ledger Migration",
+    "owner": "ben",
+    "status": "active",
+    "statusCategory": "active",
+    "headline": {
+      "due": "2027-01-31"
+    }
+  },
+  {
+    "id": "platform-modernization-eefde2",
+    "kind": "program",
+    "title": "Platform Modernization",
+    "owner": "marcus",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "green",
+    "headline": {
+      "endState": "Every service on Kubernetes; the mainframe ledger retired."
+    }
+  },
+  {
+    "id": "k8s-migration-wave-3-06fd9a",
+    "kind": "project",
+    "title": "K8s Migration Wave 3",
+    "owner": "devon",
+    "status": "active",
+    "statusCategory": "active",
+    "headline": {
+      "due": "2026-12-15"
+    }
+  },
+  {
+    "id": "onboarding-2-0-80e0ff",
+    "kind": "initiative",
+    "title": "Onboarding 2.0",
+    "owner": "li",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "yellow",
+    "headline": {
+      "target": 66,
+      "deadline": "2026-12-31",
+      "metric": "activation_rate"
+    }
+  },
+  {
+    "id": "otp-reliability-18754c",
+    "kind": "project",
+    "title": "OTP Reliability",
+    "owner": "raj",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "yellow",
+    "headline": {
+      "due": "2026-11-20"
+    }
+  },
+  {
+    "id": "sms-fallback-vendor-8042a8",
+    "kind": "project",
+    "title": "SMS fallback vendor",
+    "owner": "sam",
+    "status": "active",
+    "statusCategory": "active"
+  },
+  {
+    "id": "activation-analytics-7dc00b",
+    "kind": "project",
+    "title": "Activation analytics",
+    "owner": "li",
+    "status": "planned",
+    "statusCategory": "start"
+  },
+  {
+    "id": "fraud-checks-on-resend-e40189",
+    "kind": "project",
+    "title": "Fraud checks on resend",
+    "owner": "li",
+    "status": "planned",
+    "statusCategory": "start"
+  },
+  {
+    "id": "support-4ae95a",
+    "kind": "department",
+    "title": "Support",
+    "owner": "zoe",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "strategy-4619db",
+    "kind": "strategy",
+    "title": "Strategy",
+    "owner": "pradeep",
+    "status": "active",
+    "statusCategory": "start"
+  },
+  {
+    "id": "fy27-af6526",
+    "kind": "annual-cycle",
+    "title": "FY27",
+    "owner": "pradeep",
+    "status": "active",
+    "statusCategory": "active"
+  },
+  {
+    "id": "card-activation-61-72-ee6948",
+    "kind": "goal",
+    "title": "Card activation 61% → 72%",
+    "owner": "priya",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "yellow",
+    "headline": {
+      "target": 72,
+      "due": "2027-09-30",
+      "level": "annual"
+    }
+  },
+  {
+    "id": "support-cost-per-account-20-7d46c7",
+    "kind": "goal",
+    "title": "Support cost per account −20%",
+    "owner": "zoe",
+    "status": "active",
+    "statusCategory": "active",
+    "headline": {
+      "target": 80,
+      "due": "2027-09-30",
+      "level": "annual"
+    }
+  },
+  {
+    "id": "q1-fy27-9711bf",
+    "kind": "quarterly-cycle",
+    "title": "Q1 FY27",
+    "owner": "nadia",
+    "status": "active",
+    "statusCategory": "active"
+  },
+  {
+    "id": "fix-otp-drop-off-61-66-2ddeb0",
+    "kind": "goal",
+    "title": "Fix OTP drop-off: 61% → 66%",
+    "owner": "li",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "yellow",
+    "headline": {
+      "target": 66,
+      "due": "2026-12-31",
+      "level": "quarterly"
+    }
+  },
+  {
+    "id": "smb-beta-with-20-accounts-53d3f5",
+    "kind": "goal",
+    "title": "SMB beta with 20 accounts",
+    "owner": "rick",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "green",
+    "headline": {
+      "target": 20,
+      "due": "2026-12-31",
+      "level": "quarterly"
+    }
+  },
+  {
+    "id": "deflect-30-of-how-to-tickets-20a850",
+    "kind": "goal",
+    "title": "Deflect 30% of how-to tickets",
+    "owner": "zoe",
+    "status": "active",
+    "statusCategory": "active",
+    "health": "red",
+    "headline": {
+      "target": 30,
+      "due": "2026-12-31",
+      "level": "quarterly"
+    }
+  }
+]

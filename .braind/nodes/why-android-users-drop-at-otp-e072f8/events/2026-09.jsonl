@@ -1,0 +1,9 @@
+{"at":"2026-09-27T02:31:40.038Z","by":"li","type":"node.created","kind":"discovery","parentId":"onboarding-2-0-80e0ff","owner":"li","status":"framing"}
+{"at":"2026-09-27T02:31:40.061Z","by":"li","type":"record.promoted","folder":"proposals","record":"2026-09-27-staffing","row":"wp-1-1","from":"onboarding-2-0-80e0ff","via":"agent:staffing"}
+{"at":"2026-09-27T02:31:40.611Z","by":"li","type":"node.status.changed","from":"framing","to":"researching"}
+{"at":"2026-09-27T02:31:40.611Z","by":"li","type":"decision.recorded","decision":"accepted-delegation"}
+{"at":"2026-09-27T02:31:40.649Z","by":"li","type":"node.fields.changed","from":{},"to":{"problem":"A third of Android users abandon activation at the OTP step.","hypotheses":"SMS arrives late; users leave the app to find it.","decisionMaker":"priya"}}
+{"at":"2026-09-27T02:31:40.692Z","by":"li","type":"node.status.changed","from":"researching","to":"synthesizing"}
+{"at":"2026-09-27T02:31:40.730Z","by":"li","type":"node.status.changed","from":"synthesizing","to":"deciding"}
+{"at":"2026-09-27T02:31:40.779Z","by":"li","type":"node.status.changed","from":"deciding","to":"go","outcome":"success"}
+{"at":"2026-09-27T02:31:40.885Z","by":"pradeep","type":"spec.handed-over","to":"otp-reliability-18754c"}

@@ -1,0 +1,16 @@
+{
+  "id": "cards-pod-6dc1fb",
+  "parentId": "engineering-ff56fc",
+  "title": "Cards Pod",
+  "kind": "devpod",
+  "fields": {
+    "method": "scrum",
+    "tracker": "braind",
+    "cadence": "2w",
+    "capacity": 30
+  },
+  "owner": "raj",
+  "createdBy": "marcus",
+  "createdAt": "2026-09-27T02:31:36.041Z",
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "design-7b3430",
+  "parentId": "ledger-migration-099a67",
+  "title": "Design",
+  "kind": "phase",
+  "fields": {
+    "signOffBy": "marcus"
+  },
+  "period": {
+    "start": "2026-08-16",
+    "end": "2026-09-20"
+  },
+  "owner": "ben",
+  "createdBy": "ben",
+  "createdAt": "2026-09-27T02:31:39.568Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:39.602Z"
+}

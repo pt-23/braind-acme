@@ -1,0 +1,13 @@
+{
+  "id": "people-c00da3",
+  "parentId": "northwind-pay",
+  "title": "People",
+  "kind": "department",
+  "fields": {
+    "leader": "nadia"
+  },
+  "owner": "nadia",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.877Z",
+  "status": "active"
+}

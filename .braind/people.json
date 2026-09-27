@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "roles": [
+    "exec",
+    "pm",
+    "engineer",
+    "sre",
+    "qa",
+    "designer",
+    "data",
+    "support",
+    "sales",
+    "hr",
+    "eng-manager"
+  ],
+  "people": [
+    {
+      "alias": "pradeep",
+      "name": "Pradeep",
+      "emails": [],
+      "designation": "CEO",
+      "roles": [
+        "exec"
+      ],
+      "home": "northwind-pay",
+      "hostUsername": "pt-23"
+    },
+    {
+      "alias": "nadia",
+      "name": "Nadia Karim",
+      "emails": [
+        "nadia@northwind.test"
+      ],
+      "designation": "Head of People",
+      "roles": [
+        "hr"
+      ],
+      "manager": "pradeep",
+      "home": "people-c00da3"
+    },
+    {
+      "alias": "priya",
+      "name": "Priya Raman",
+      "emails": [
+        "priya@northwind.test"
+      ],
+      "designation": "VP Product",
+      "roles": [
+        "pm",
+        "exec"
+      ],
+      "manager": "pradeep",
+      "home": "product-5a3504"
+    },
+    {
+      "alias": "marcus",
+      "name": "Marcus Webb",
+      "emails": [
+        "marcus@northwind.test"
+      ],
+      "designation": "VP Engineering",
+      "roles": [
+        "eng-manager",
+        "exec"
+      ],
+      "manager": "pradeep",
+      "timezone": "America/New_York",
+      "home": "engineering-ff56fc"
+    },
+    {
+      "alias": "li",
+      "name": "Li Wei",
+      "emails": [
+        "li@northwind.test"
+      ],
+      "designation": "Senior Product Manager",
+      "roles": [
+        "pm"
+      ],
+      "manager": "priya",
+      "timezone": "America/Los_Angeles",
+      "home": "product-5a3504"
+    },
+    {
+      "alias": "rick",
+      "name": "Rick Alvarez",
+      "emails": [
+        "rick@northwind.test"
+      ],
+      "designation": "Head of Sales",
+      "roles": [
+        "sales"
+      ],
+      "manager": "pradeep",
+      "home": "northwind-pay"
+    },
+    {
+      "alias": "raj",
+      "name": "Raj Patel",
+      "emails": [
+        "raj@northwind.test"
+      ],
+      "designation": "Senior Engineer II",
+      "roles": [
+        "engineer"
+      ],
+      "manager": "marcus",
+      "timezone": "America/New_York",
+      "home": "cards-pod-6dc1fb"
+    },
+    {
+      "alias": "sam",
+      "name": "Sam Ortiz",
+      "emails": [
+        "sam@northwind.test"
+      ],
+      "designation": "Engineer",
+      "roles": [
+        "engineer"
+      ],
+      "manager": "marcus",
+      "home": "cards-pod-6dc1fb"
+    },
+    {
+      "alias": "tom",
+      "name": "Tom Becker",
+      "emails": [
+        "tom@northwind.test"
+      ],
+      "designation": "QA Engineer",
+      "roles": [
+        "qa"
+      ],
+      "manager": "marcus",
+      "home": "cards-pod-6dc1fb"
+    },
+    {
+      "alias": "devon",
+      "name": "Devon Clarke",
+      "emails": [
+        "devon@northwind.test"
+      ],
+      "designation": "Staff Engineer, Platform",
+      "roles": [
+        "engineer",
+        "sre"
+      ],
+      "manager": "marcus",
+      "home": "platform-pod-875145"
+    },
+    {
+      "alias": "ben",
+      "name": "Ben Osei",
+      "emails": [
+        "ben@northwind.test"
+      ],
+      "designation": "Tech Lead, Core Banking",
+      "roles": [
+        "engineer"
+      ],
+      "manager": "marcus",
+      "home": "core-banking-pod-e98aac"
+    },
+    {
+      "alias": "ana",
+      "name": "Ana Lima",
+      "emails": [
+        "ana@northwind.test"
+      ],
+      "designation": "Product Designer",
+      "roles": [
+        "designer"
+      ],
+      "manager": "priya",
+      "home": "product-5a3504"
+    },
+    {
+      "alias": "maria",
+      "name": "Maria Gomez",
+      "emails": [
+        "maria@northwind.test"
+      ],
+      "designation": "Head of Data",
+      "roles": [
+        "data",
+        "eng-manager"
+      ],
+      "manager": "pradeep",
+      "home": "data-eac0be"
+    },
+    {
+      "alias": "kim",
+      "name": "Kim Tan",
+      "emails": [
+        "kim@northwind.test"
+      ],
+      "designation": "Analytics Engineer",
+      "roles": [
+        "data"
+      ],
+      "manager": "maria",
+      "home": "data-eac0be"
+    },
+    {
+      "alias": "zoe",
+      "name": "Zoe Martin",
+      "emails": [
+        "zoe@northwind.test"
+      ],
+      "designation": "Head of Support",
+      "roles": [
+        "support"
+      ],
+      "manager": "pradeep",
+      "home": "support-4ae95a"
+    },
+    {
+      "alias": "omar",
+      "name": "Omar Haddad",
+      "emails": [
+        "omar@northwind.test"
+      ],
+      "designation": "Support Engineer",
+      "roles": [
+        "support"
+      ],
+      "manager": "zoe",
+      "status": "leave",
+      "home": "tier-1-80c691"
+    }
+  ],
+  "teams": [
+    {
+      "alias": "cards-pod",
+      "name": "Cards Pod",
+      "members": [
+        "raj",
+        "sam",
+        "tom"
+      ]
+    },
+    {
+      "alias": "platform",
+      "name": "Platform",
+      "members": [
+        "devon"
+      ]
+    },
+    {
+      "alias": "data-team",
+      "name": "Data",
+      "members": [
+        "maria",
+        "kim"
+      ]
+    }
+  ]
+}

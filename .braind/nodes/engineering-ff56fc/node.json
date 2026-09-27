@@ -1,0 +1,13 @@
+{
+  "id": "engineering-ff56fc",
+  "parentId": "northwind-pay",
+  "title": "Engineering",
+  "kind": "department",
+  "fields": {
+    "leader": "marcus"
+  },
+  "owner": "marcus",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.939Z",
+  "status": "active"
+}

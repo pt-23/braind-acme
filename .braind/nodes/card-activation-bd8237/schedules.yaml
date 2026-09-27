@@ -1,0 +1,17 @@
+# Weekly KPI refresh, report draft, and a Friday nudge.
+- id: kpi-refresh
+  kind: refresh
+  cron: "0 6 * * MON"
+  tz: America/Los_Angeles
+  source: { connector: command, query: "echo 0.638", metric: activation_rate }
+- id: weekly-report
+  kind: report
+  cron: "0 8 * * MON"
+  tz: America/Los_Angeles
+  after: kpi-refresh
+  prompt: Draft this week's Card Activation report against the 72% target.
+- id: checkin-nudge
+  kind: reminder
+  cron: "0 15 * * FRI"
+  tz: America/Los_Angeles
+  message: Post this week's Card Activation check-in.

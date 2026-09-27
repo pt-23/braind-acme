@@ -1,0 +1,14 @@
+{
+  "id": "platform-pod-875145",
+  "parentId": "engineering-ff56fc",
+  "title": "Platform Pod",
+  "kind": "devpod",
+  "fields": {
+    "method": "kanban",
+    "wip": "doing:3, review:2"
+  },
+  "owner": "devon",
+  "createdBy": "marcus",
+  "createdAt": "2026-09-27T02:31:36.071Z",
+  "status": "active"
+}

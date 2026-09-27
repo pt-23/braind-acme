@@ -1,0 +1,17 @@
+{
+  "id": "build-7a957c",
+  "parentId": "ledger-migration-099a67",
+  "title": "Build",
+  "kind": "phase",
+  "fields": {
+    "signOffBy": "marcus"
+  },
+  "period": {
+    "start": "2026-09-21",
+    "end": "2026-12-15"
+  },
+  "owner": "ben",
+  "createdBy": "ben",
+  "createdAt": "2026-09-27T02:31:39.637Z",
+  "status": "planned"
+}

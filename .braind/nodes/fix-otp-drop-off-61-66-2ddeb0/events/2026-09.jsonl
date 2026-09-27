@@ -1,0 +1,5 @@
+{"at":"2026-09-27T02:31:36.985Z","by":"nadia","type":"node.created","kind":"goal","parentId":"q1-fy27-9711bf","owner":"li","status":"draft"}
+{"at":"2026-09-27T02:31:37.096Z","by":"pradeep","type":"link.added","rel":"supports","to":"card-activation-61-72-ee6948"}
+{"at":"2026-09-27T02:31:37.345Z","by":"li","type":"node.status.changed","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.375Z","by":"li","type":"node.status.changed","from":"approved","to":"active"}
+{"at":"2026-09-27T02:31:37.624Z","by":"li","type":"checkin.recorded","record":"2026-09-27-li","health":"yellow"}

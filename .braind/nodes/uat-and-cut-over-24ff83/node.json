@@ -1,0 +1,17 @@
+{
+  "id": "uat-and-cut-over-24ff83",
+  "parentId": "ledger-migration-099a67",
+  "title": "UAT and cut-over",
+  "kind": "phase",
+  "fields": {
+    "signOffBy": "marcus"
+  },
+  "period": {
+    "start": "2026-12-16",
+    "end": "2027-01-31"
+  },
+  "owner": "ben",
+  "createdBy": "ben",
+  "createdAt": "2026-09-27T02:31:39.673Z",
+  "status": "planned"
+}

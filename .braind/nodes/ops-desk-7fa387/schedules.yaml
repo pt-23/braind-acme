@@ -1,0 +1,5 @@
+- id: escalation-cluster
+  kind: agent
+  cron: "0 7 * * MON-FRI"
+  tz: America/Chicago
+  prompt: Propose clusters of this week's escalations by Feature, with a one-line problem for each.

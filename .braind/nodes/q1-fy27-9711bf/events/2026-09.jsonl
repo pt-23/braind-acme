@@ -1,0 +1,9 @@
+{"at":"2026-09-27T02:31:36.909Z","by":"pradeep","type":"node.created","kind":"quarterly-cycle","parentId":"fy27-af6526","owner":"nadia","status":"draft"}
+{"at":"2026-09-27T02:31:36.950Z","by":"nadia","type":"node.status.changed","from":"draft","to":"active"}
+{"at":"2026-09-27T02:31:37.752Z","by":"raj","type":"record.created","folder":"goals","record":"2026-09-27-raj-ship-sms-fallback-to-100-of-android-user","title":"Ship SMS fallback to 100% of Android users"}
+{"at":"2026-09-27T02:31:37.802Z","by":"sam","type":"record.created","folder":"goals","record":"2026-09-27-sam-cut-otp-timeouts-on-android-by-half","title":"Cut OTP timeouts on Android by half"}
+{"at":"2026-09-27T02:31:37.841Z","by":"li","type":"record.created","folder":"goals","record":"2026-09-27-li-publish-the-otp-funnel-dashboard-weekly","title":"Publish the OTP funnel dashboard weekly"}
+{"at":"2026-09-27T02:31:37.878Z","by":"rick","type":"record.created","folder":"goals","record":"2026-09-27-rick-close-20-smb-beta-contracts","title":"Close 20 SMB beta contracts"}
+{"at":"2026-09-27T02:31:37.921Z","by":"nadia","type":"record.status.changed","folder":"goals","record":"2026-09-27-rick-close-20-smb-beta-contracts","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.946Z","by":"nadia","type":"record.status.changed","folder":"goals","record":"2026-09-27-li-publish-the-otp-funnel-dashboard-weekly","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.970Z","by":"nadia","type":"record.status.changed","folder":"goals","record":"2026-09-27-sam-cut-otp-timeouts-on-android-by-half","from":"draft","to":"approved"}

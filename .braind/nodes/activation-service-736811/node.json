@@ -1,0 +1,15 @@
+{
+  "id": "activation-service-736811",
+  "parentId": "platform-pod-875145",
+  "title": "Activation Service",
+  "kind": "service",
+  "fields": {
+    "slos": "99.9% availability, p95 < 300ms",
+    "onCall": "devon"
+  },
+  "owner": "devon",
+  "createdBy": "devon",
+  "createdAt": "2026-09-27T02:31:38.540Z",
+  "status": "live",
+  "statusChangedAt": "2026-09-27T02:31:38.579Z"
+}

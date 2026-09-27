@@ -1,0 +1,16 @@
+{
+  "id": "sms-provider-failover-drill-dc6c7a",
+  "parentId": "otp-reliability-18754c",
+  "title": "SMS provider failover drill",
+  "kind": "work-item",
+  "fields": {
+    "itemId": "WI-20260927-5656",
+    "type": "spike",
+    "points": 5,
+    "assignee": "raj"
+  },
+  "owner": "raj",
+  "createdBy": "raj",
+  "createdAt": "2026-09-27T02:31:41.763Z",
+  "status": "open"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "deflect-30-of-how-to-tickets-20a850",
+  "parentId": "q1-fy27-9711bf",
+  "title": "Deflect 30% of how-to tickets",
+  "kind": "goal",
+  "fields": {
+    "level": "quarterly",
+    "target": 30,
+    "due": "2026-12-31"
+  },
+  "owner": "zoe",
+  "createdBy": "nadia",
+  "createdAt": "2026-09-27T02:31:37.035Z",
+  "status": "active",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "support-cost-per-account-20-7d46c7"
+    }
+  ],
+  "statusChangedAt": "2026-09-27T02:31:37.522Z"
+}

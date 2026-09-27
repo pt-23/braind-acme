@@ -1,0 +1,16 @@
+{"at":"2026-09-27T02:31:38.122Z","by":"priya","type":"node.created","kind":"feature","parentId":"cards-30bec8","owner":"li","status":"concept"}
+{"at":"2026-09-27T02:31:38.241Z","by":"li","type":"node.status.changed","from":"concept","to":"beta"}
+{"at":"2026-09-27T02:31:38.273Z","by":"li","type":"node.status.changed","from":"beta","to":"GA"}
+{"at":"2026-09-27T02:31:38.407Z","by":"li","type":"snapshot.recorded","metric":"activation_rate","value":0.638,"connector":"command","runKey":"card-activation-bd8237:kpi-refresh@manual-2026-09-27T02:31Z"}
+{"at":"2026-09-27T02:31:38.419Z","by":"li","type":"schedule.ran","job":"kpi-refresh","kind":"refresh","runKey":"card-activation-bd8237:kpi-refresh@manual-2026-09-27T02:31Z","ok":true,"detail":"activation_rate = 0.638"}
+{"at":"2026-09-27T02:31:38.443Z","by":"li","type":"record.created","folder":"reports","record":"2026-09-27-li","title":"2026-W39"}
+{"at":"2026-09-27T02:31:38.466Z","by":"li","type":"record.status.changed","folder":"reports","record":"2026-09-27-li","from":"draft","to":"published","outcome":"success"}
+{"at":"2026-09-27T02:31:38.489Z","by":"li","type":"record.created","folder":"reports","record":"2026-09-27-li-2","title":"2026-W40"}
+{"at":"2026-09-27T02:31:38.638Z","by":"li","type":"link.added","rel":"runs-on","to":"activation-service-736811"}
+{"at":"2026-09-27T02:31:38.667Z","by":"li","type":"link.added","rel":"serves","to":"card-activation-61-72-ee6948"}
+{"at":"2026-09-27T02:31:42.191Z","by":"zoe","type":"record.created","folder":"register","record":"2026-09-27-zoe-otp-delivery-is-slow-or-missing-for-andr","kind":"opportunity","title":"OTP delivery is slow or missing for Android users"}
+{"at":"2026-09-27T02:31:42.278Z","by":"zoe","type":"record.clustered","records":["2026-09-27-zoe","2026-09-27-zoe-2","2026-09-27-zoe-3"],"into":"2026-09-27-zoe-otp-delivery-is-slow-or-missing-for-andr","from":"ops-desk-7fa387"}
+{"at":"2026-09-27T02:31:42.590Z","by":"raj","type":"record.created","folder":"register","record":"2026-09-27-raj-sms-delayed-on-android-14-battery-saver","kind":"defect","title":"SMS delayed on Android 14 battery saver"}
+{"at":"2026-09-27T02:31:42.639Z","by":"raj","type":"record.status.changed","folder":"register","record":"2026-09-27-raj-sms-delayed-on-android-14-battery-saver","from":"open","to":"fixing"}
+{"at":"2026-09-27T02:31:42.639Z","by":"raj","type":"record.promoted","folder":"register","record":"2026-09-27-raj-sms-delayed-on-android-14-battery-saver","as":"item","to":"item:otp-reliability-18754c/WI-20260927-e928"}
+{"at":"2026-09-27T02:31:42.678Z","by":"li","type":"record.created","folder":"register","record":"2026-09-27-li-twilio-contract-renews-in-march-with-a-3","kind":"risk","title":"Twilio contract renews in March with a 30% price rise"}

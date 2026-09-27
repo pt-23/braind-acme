@@ -1,0 +1,25 @@
+{
+  "id": "smb-market-fit-2a1be7",
+  "parentId": "cards-30bec8",
+  "title": "SMB market fit",
+  "kind": "discovery",
+  "fields": {
+    "problem": "We can get 10% more users if we target SMBs"
+  },
+  "links": [
+    {
+      "rel": "derived-from",
+      "to": "cards-30bec8",
+      "note": "register/2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm"
+    },
+    {
+      "rel": "serves",
+      "to": "smb-beta-with-20-accounts-53d3f5"
+    }
+  ],
+  "owner": "rick",
+  "createdBy": "priya",
+  "createdAt": "2026-09-27T02:31:42.379Z",
+  "status": "researching",
+  "statusChangedAt": "2026-09-27T02:31:42.450Z"
+}

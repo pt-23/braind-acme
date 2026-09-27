@@ -1,0 +1,14 @@
+{
+  "id": "northwind-pay",
+  "parentId": null,
+  "title": "Northwind Pay",
+  "owner": "pradeep",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.821Z",
+  "status": "active",
+  "kind": "company",
+  "fields": {
+    "mission": "Cards that just work for every small business."
+  },
+  "statusChangedAt": "2026-09-27T02:31:35.838Z"
+}

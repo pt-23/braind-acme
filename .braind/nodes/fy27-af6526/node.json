@@ -1,0 +1,18 @@
+{
+  "id": "fy27-af6526",
+  "parentId": "strategy-4619db",
+  "title": "FY27",
+  "kind": "annual-cycle",
+  "fields": {
+    "fiscalYear": "FY27"
+  },
+  "period": {
+    "start": "2026-10-01",
+    "end": "2027-09-30"
+  },
+  "owner": "pradeep",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:36.764Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:36.796Z"
+}

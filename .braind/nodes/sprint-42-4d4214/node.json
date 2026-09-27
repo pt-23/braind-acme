@@ -1,0 +1,19 @@
+{
+  "id": "sprint-42-4d4214",
+  "parentId": "cards-pod-6dc1fb",
+  "title": "Sprint 42",
+  "kind": "sprint",
+  "fields": {
+    "goal": "Auto-read OTP on Android",
+    "capacity": 30
+  },
+  "period": {
+    "start": "2026-09-28",
+    "end": "2026-10-09"
+  },
+  "owner": "raj",
+  "createdBy": "raj",
+  "createdAt": "2026-09-27T02:31:41.086Z",
+  "status": "active",
+  "statusChangedAt": "2026-09-27T02:31:41.605Z"
+}

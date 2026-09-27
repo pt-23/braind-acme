@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-09-27T02:31:42.879Z",
+  "counts": {
+    "department": {
+      "start": 1
+    },
+    "project": {
+      "start": 1
+    }
+  },
+  "health": null,
+  "redNodes": 0,
+  "highSeverityOpen": 0,
+  "lastActivity": "2026-09-27T02:31:42.875Z"
+}

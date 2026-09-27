@@ -1,0 +1,4 @@
+{"at":"2026-09-27T02:31:36.845Z","by":"pradeep","type":"node.created","kind":"goal","parentId":"fy27-af6526","owner":"priya","status":"draft"}
+{"at":"2026-09-27T02:31:37.193Z","by":"priya","type":"node.status.changed","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.224Z","by":"priya","type":"node.status.changed","from":"approved","to":"active"}
+{"at":"2026-09-27T02:31:37.583Z","by":"priya","type":"checkin.recorded","record":"2026-09-27-priya","health":"yellow"}

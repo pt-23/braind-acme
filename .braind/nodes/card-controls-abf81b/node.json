@@ -1,0 +1,15 @@
+{
+  "id": "card-controls-abf81b",
+  "parentId": "cards-30bec8",
+  "title": "Card Controls",
+  "kind": "feature",
+  "fields": {
+    "pm": "priya",
+    "kpis": "controls_weekly_active"
+  },
+  "owner": "priya",
+  "createdBy": "priya",
+  "createdAt": "2026-09-27T02:31:38.143Z",
+  "status": "beta",
+  "statusChangedAt": "2026-09-27T02:31:38.182Z"
+}

@@ -1,0 +1,6 @@
+{"at":"2026-09-27T02:31:42.398Z","by":"priya","type":"node.created","kind":"discovery","parentId":"cards-30bec8","owner":"rick","status":"framing"}
+{"at":"2026-09-27T02:31:42.424Z","by":"priya","type":"record.promoted","folder":"register","record":"2026-09-27-rick-we-can-get-10-more-users-if-we-target-sm","from":"cards-30bec8"}
+{"at":"2026-09-27T02:31:42.463Z","by":"rick","type":"node.status.changed","from":"framing","to":"researching"}
+{"at":"2026-09-27T02:31:42.463Z","by":"rick","type":"decision.recorded","decision":"accepted-delegation"}
+{"at":"2026-09-27T02:31:42.513Z","by":"rick","type":"link.added","rel":"serves","to":"smb-beta-with-20-accounts-53d3f5"}
+{"at":"2026-09-27T02:31:42.544Z","by":"rick","type":"checkin.recorded","record":"2026-09-27-rick","health":"green"}

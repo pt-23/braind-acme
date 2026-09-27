@@ -1,0 +1,5 @@
+{"at":"2026-09-27T02:31:37.018Z","by":"nadia","type":"node.created","kind":"goal","parentId":"q1-fy27-9711bf","owner":"rick","status":"draft"}
+{"at":"2026-09-27T02:31:37.124Z","by":"pradeep","type":"link.added","rel":"supports","to":"card-activation-61-72-ee6948"}
+{"at":"2026-09-27T02:31:37.422Z","by":"rick","type":"node.status.changed","from":"draft","to":"approved"}
+{"at":"2026-09-27T02:31:37.454Z","by":"rick","type":"node.status.changed","from":"approved","to":"active"}
+{"at":"2026-09-27T02:31:37.666Z","by":"rick","type":"checkin.recorded","record":"2026-09-27-rick","health":"green"}

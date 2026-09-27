@@ -1,0 +1,13 @@
+{
+  "id": "data-eac0be",
+  "parentId": null,
+  "title": "Data",
+  "kind": "department",
+  "fields": {
+    "leader": "maria"
+  },
+  "owner": "maria",
+  "createdBy": "pradeep",
+  "createdAt": "2026-09-27T02:31:35.997Z",
+  "status": "active"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fix-otp-drop-off-61-66-2ddeb0",
+  "parentId": "q1-fy27-9711bf",
+  "title": "Fix OTP drop-off: 61% → 66%",
+  "kind": "goal",
+  "fields": {
+    "level": "quarterly",
+    "baseline": 61,
+    "target": 66,
+    "due": "2026-12-31"
+  },
+  "owner": "li",
+  "createdBy": "nadia",
+  "createdAt": "2026-09-27T02:31:36.969Z",
+  "status": "active",
+  "links": [
+    {
+      "rel": "supports",
+      "to": "card-activation-61-72-ee6948"
+    }
+  ],
+  "statusChangedAt": "2026-09-27T02:31:37.363Z"
+}

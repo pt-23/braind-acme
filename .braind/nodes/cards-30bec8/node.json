@@ -1,0 +1,20 @@
+{
+  "id": "cards-30bec8",
+  "parentId": "product-5a3504",
+  "title": "Cards",
+  "kind": "product",
+  "fields": {
+    "vision": "Issue, activate and control cards in minutes.",
+    "pm": "priya"
+  },
+  "owner": "priya",
+  "createdBy": "priya",
+  "createdAt": "2026-09-27T02:31:38.022Z",
+  "status": "live",
+  "statusChangedAt": "2026-09-27T02:31:38.056Z",
+  "tags": {
+    "product": [
+      "cards"
+    ]
+  }
+}

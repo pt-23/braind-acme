@@ -1,0 +1,12 @@
+{"at":"2026-09-27T02:31:41.963Z","by":"zoe","type":"node.created","kind":"ops-desk","parentId":"tier-1-80c691","owner":"zoe","status":"active"}
+{"at":"2026-09-27T02:31:42.006Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe","title":"OTP never arrived (Acme Bakery)"}
+{"at":"2026-09-27T02:31:42.031Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe-2","title":"OTP arrived after 3 minutes on Pixel 8"}
+{"at":"2026-09-27T02:31:42.054Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe-3","title":"Code expired before it arrived"}
+{"at":"2026-09-27T02:31:42.079Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe-4","title":"Customer locked out after 3 attempts"}
+{"at":"2026-09-27T02:31:42.102Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe-5","title":"How do I resend the code?"}
+{"at":"2026-09-27T02:31:42.128Z","by":"zoe","type":"record.created","folder":"escalations","record":"2026-09-27-zoe-6","title":"Where do I set a spending limit?"}
+{"at":"2026-09-27T02:31:42.152Z","by":"zoe","type":"record.status.changed","folder":"escalations","record":"2026-09-27-zoe-6","from":"new","to":"triaged"}
+{"at":"2026-09-27T02:31:42.216Z","by":"zoe","type":"record.status.changed","folder":"escalations","record":"2026-09-27-zoe","from":"new","to":"linked"}
+{"at":"2026-09-27T02:31:42.241Z","by":"zoe","type":"record.status.changed","folder":"escalations","record":"2026-09-27-zoe-2","from":"new","to":"linked"}
+{"at":"2026-09-27T02:31:42.267Z","by":"zoe","type":"record.status.changed","folder":"escalations","record":"2026-09-27-zoe-3","from":"new","to":"linked"}
+{"at":"2026-09-27T02:31:42.278Z","by":"zoe","type":"record.clustered","records":["2026-09-27-zoe","2026-09-27-zoe-2","2026-09-27-zoe-3"],"into":"2026-09-27-zoe-otp-delivery-is-slow-or-missing-for-andr","feature":"card-activation-bd8237"}

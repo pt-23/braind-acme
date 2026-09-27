@@ -1,0 +1,21 @@
+{
+  "id": "k8s-migration-wave-3-06fd9a",
+  "parentId": "platform-modernization-eefde2",
+  "title": "K8s Migration Wave 3",
+  "kind": "project",
+  "fields": {
+    "due": "2026-12-15",
+    "deliverables": "Activation, Ledger API and Notifications on k8s"
+  },
+  "owner": "devon",
+  "createdBy": "marcus",
+  "createdAt": "2026-09-27T02:31:38.892Z",
+  "status": "active",
+  "links": [
+    {
+      "rel": "delivered-by",
+      "to": "platform-pod-875145"
+    }
+  ],
+  "statusChangedAt": "2026-09-27T02:31:38.975Z"
+}
